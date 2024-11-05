@@ -14,16 +14,15 @@ Installing:
 How/where to download your program
 Any modifications needed to be made to files/folders
 
-Executing program:
 
-How to run the program
-
-Step-by-step bullets
+How to run the program:
+Program found in Bootcamp folder under homework, package.json attached to ReadME in GitHub.  
 
 
 Authors
 
 Jennifer Buehrle
+GitHub: Jenn1313
 
 License
 
