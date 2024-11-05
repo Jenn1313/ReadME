@@ -2,7 +2,7 @@ Project Title:
 
 
 Description:
-An in-depth paragraph about your project and overview of use.
+Develop a ReadME.md template for easy access to add to all projects that help describe and explain installation instructions.
 
 Getting Started:
 
@@ -16,10 +16,11 @@ Any modifications needed to be made to files/folders
 
 
 How to run the program:
-Program found in Bootcamp folder under homework, package.json attached to ReadME in GitHub.  
+Program found in Bootcamp folder under homework, package.json attached to ReadME in GitHub. 
+.gitignore attached.
 
 Questions:
-
+git@github.com:Jenn1313/Jenn1313.git
 
 Authors
 
