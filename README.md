@@ -8,7 +8,7 @@
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Questions](#Questions)
-- [Run tests](#Run Tests)
+- [Tests](#Tests)
 - [Contributors](#Contributors)
 - [License](#License)
 
@@ -37,7 +37,7 @@ npm install
  Github: @Jenn1313 https://github.com/Jenn1313
 
 
-## Run tests
+## Tests
 
 ```sh
 npm run test
