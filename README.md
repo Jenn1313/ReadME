@@ -1,39 +1,43 @@
-##Project Title
-https://img.shields.io/badge/just%20the%20message-8A2BE2
+# Welcome to Jenns README Template 👋
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+[![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
-##Description
+> Jenns README Template
 
-Develop a ReadME.md template for easy access to add to all projects that help describe and explain installation instructions.
+## Install
 
-##Table of Contents
-- [Installation] (#installation)
-- [Usage] (#Usage)
-- [Questions] (#Questions)
-- [Contributing] (#License)
-- [License] (#License)
+```sh
+npm install
+```
 
-##Installation
+## Usage
 
-Program found in Bootcamp folder under homework, package.json attached to ReadME in GitHub. 
-.gitignore attached.
+```sh
+Program found in bootcamp folder under homework
+```
 
-How/where to download your program
-Any modifications needed to be made to files/folders
+## Run tests
 
-##Usage
+```sh
+npm run test
+```
+
+## Author
+
+👤 **Jennifer Buehrle**
+
+* Github: [@Jenn1313](https://github.com/Jenn1313)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
 
 
-##Questions
+## 📝 License
 
-Any questions please contact:
-git@github.com:Jenn1313/Jenn1313.git
+Copyright © 2024 [Jennifer Buehrle](https://github.com/Jenn1313).
 
-##Contibutors
+This project is [ISC](https://img.shields.io/badge/just%20the%20message-8A2BE2) licensed.
 
-Jennifer Buehrle
-GitHub: Jenn1313
-
-##License
-
-This project is licensed under the [NAME HERE] 
-
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
