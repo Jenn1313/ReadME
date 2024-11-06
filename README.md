@@ -4,25 +4,28 @@
 
 > Jenns README Template
 
-## Install
+## Table of Contents
+- ##Description
+- ##Installation
+- ##Usage
+- ##Contributors
 
+
+##Description
+Provides a README template for all projects
 ```sh
-npm install
 ```
 
-## Usage
+## Installation
 
 ```sh
 Program found in bootcamp folder under homework
 ```
+## Usage
 
-## Run tests
 
-```sh
-npm run test
-```
 
-## Author
+## Contributors
 
 👤 **Jennifer Buehrle**
 
