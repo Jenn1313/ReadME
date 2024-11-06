@@ -1,20 +1,34 @@
 # Welcome to Jenns README Template 👋
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+![Version](
+https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 > Jenns README Template
 
-## Install
+## Table of Contents
+
+- ##Description
+- ##Installation
+- ##Usage
+- ##RunTest
+- ##Contributors
+- ##License
 
 ```sh
 npm install
 ```
 
-## Usage
+## Description
 
+Provides a README template for all projects
+
+
+##Installation
 ```sh
 Program found in bootcamp folder under homework
 ```
+##Usage
+
 
 ## Run tests
 
@@ -22,7 +36,7 @@ Program found in bootcamp folder under homework
 npm run test
 ```
 
-## Author
+## Contributors
 
 👤 **Jennifer Buehrle**
 
